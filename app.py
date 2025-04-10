@@ -34,7 +34,7 @@ except Exception as e:
     exit()
 
 
-bot = telebot.TeleBot('7748261656:AAGWXBoQdDjoiEh_Hy0nzGB5buqDh8HsgP8')
+bot = telebot.TeleBot('7448261656:AAGWXBoQdDjoiEh_Hy0nzGB5buqDh8HsgP8')
 
 
 user_states = {}
